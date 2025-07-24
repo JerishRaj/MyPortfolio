@@ -72,7 +72,6 @@ If you’d like to connect or collaborate:
 
 ---
 
-
 ## 📸 Screenshots
 
 ### 🔹 Hero Section  
@@ -92,7 +91,6 @@ If you’d like to connect or collaborate:
 
 ### 🔹 Footer  
 ![Footer Section](screenshots/footer-section.png)
-
 
 ---
 
